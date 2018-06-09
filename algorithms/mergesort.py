@@ -1,5 +1,5 @@
-from data_structures.list import List
+from data_structures.lists import LinkedList
 
 
-my_list = List()
+my_list = LinkedList()
 print('Algorithm that uses list')
